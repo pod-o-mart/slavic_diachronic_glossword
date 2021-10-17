@@ -94,4 +94,4 @@ The production installation of the *Slavic Diachronic Dictionary Server* has man
 
 Maybe you will be lucky enough to get Glossword to work with this backup.
 
-Stay tuned at [Glossword](https://github.com/glosswordteam/Glossword) for a new version. The author has [indicated planning a new version for `PHP7` and `PHP8`](https://github.com/glosswordteam/Glossword/issues/10).
+Stay tuned at [Glossword](https://github.com/glosswordteam/Glossword) for a new version. The author has [indicated planning an upgrade for `PHP7` and `PHP8`](https://github.com/glosswordteam/Glossword/issues/10).
