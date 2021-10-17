@@ -1,6 +1,6 @@
 # Dictionaries for Slavic historical linguistics in Glossword
 
-**_This Version `0.0.1` is a *dummy*. Please use a newer version min. `1.0.0`._** *(Had to create this dummy first in order to obtain a DOI number.)*
+**_This Version `0.1` is a *dummy*. Please use a newer version min. `1.0`._** *(Had to create this dummy first in order to obtain a DOI number.)*
 
 This is the backup repository for the online project [**Slavic Diachronic Dictionary Server** at the Danish Portal for East European Studies](https://ordbog.oesteuropastudier.dk/). The project is based on the online dictionary sytem [**Glossword**](https://github.com/glosswordteam/Glossword).
 
@@ -22,7 +22,7 @@ These are adapted to the dictionaries and have to be indicated in the individual
 
 **_Please be careful with the copyrights! Try to obtain a permission from the authors. It is explicitly discouraged to use the dictionaries in any commercial context!_**
 
-The individual dictionaries are saved in their ZIP files containing a HTML file with additional information (title, short description, description, topic, custom alphabetic order and dictionary elements settings). Use this information to manually create the individual dictionary. Afterwards import the terms of the dictionary using the XML files from the ZIP file.
+The individual dictionaries are saved in their ZIP files containing a HTML file with compulsory additional information (title, short description, description, custom alphabetic order and dictionary elements settings). Use this information to manually create the individual dictionary. Afterwards import the terms of the dictionary using the XML files from the ZIP file.
 
 #### Dictionaries on language history (number of headwords)
 - **[chu-eng] OCS Online - Base Form Dictionary** (598)
