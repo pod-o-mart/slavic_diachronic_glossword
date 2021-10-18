@@ -1,12 +1,13 @@
 # Dictionaries for Slavic historical linguistics in Glossword
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5575248.svg)](https://doi.org/10.5281/zenodo.5575248)
 
-**_This Version `0.1` is a *dummy*. Please use a newer version min. `1.0`._** *(Had to create this dummy first in order to obtain a DOI number.)*
+**_The Version `0.1` is a *dummy*. Please wait for a newer version min. `1.0`._** *(Had to create this dummy first in order to obtain a DOI number.)*
 
 This is the backup repository for the online project [**Slavic Diachronic Dictionary Server** at the Danish Portal for East European Studies](https://ordbog.oesteuropastudier.dk/). The project is based on the online dictionary sytem [**Glossword**](https://github.com/glosswordteam/Glossword).
 
 The focus of the project lies on historical linguistics of the Slavic languages with dictionaries for Old Church Slavonic, Old Russian, Old Ukrainian, etymology and linguistic terminology.
 
-Although the *Github* repository itself does not contain any dictionary or system backup files because of their file size, it represents the project on Github and links to the corresponding backup files on Zenodo. You will **find the files in the Zenodo repository**. Follow the [DOI link]() as displayed above.
+Although the *Github* repository itself does not contain any dictionary or system backup files because of their file size, it represents the project on Github and links to the corresponding backup files on Zenodo. You will **find the files in the Zenodo repository**. Follow the [DOI link](https://doi.org/10.5281/zenodo.5575248) as displayed above.
 
 ## Files
 
