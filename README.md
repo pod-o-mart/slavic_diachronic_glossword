@@ -3,7 +3,7 @@
 
 **_The Version `0.1` is a *dummy*. Please wait for a newer version min. `1.0`._** *(Had to create this dummy first in order to obtain a DOI number.)*
 
-This is the backup repository for the online project [**Slavic Diachronic Dictionary Server** at the Danish Portal for East European Studies](https://ordbog.oesteuropastudier.dk/). The project is based on the online dictionary sytem [**Glossword**](https://github.com/glosswordteam/Glossword).
+This is the backup repository for the online project [**Slavic Diachronic Dictionary Server** at the Danish Portal for East European Studies](https://ordbog.oesteuropastudier.dk/). The project is based on the online dictionary sytem [**Glossword**](https://github.com/glosswordteam/Glossword) (version `1.8.12`).
 
 The focus of the project lies on historical linguistics of the Slavic languages with dictionaries for Old Church Slavonic, Old Russian, Old Ukrainian, etymology and linguistic terminology.
 
@@ -89,7 +89,7 @@ Some of the dictionaries can discriminate between modern and traditional font fa
 Consider defining an old Cyrillic webfont for this CSS class in your stylesheet. I recommend the [Ponomar webfonts](https://sci.ponomar.net/tools.html#web-fonts) for this.
 
 ## Full backup of the *Slavic Diachronic Dictionary Server*
-As Glossword currently only supports <=`PHP5.6`, you propably won't be able to make a new installation of Glossword on your server.
+As Glossword `1.8.12` only supports <=`PHP5.6`, you propably won't be able to make a new installation of Glossword on your server.
 
 The production installation of the *Slavic Diachronic Dictionary Server* has manually been adapted to work with `PHP7` ([see my fork](https://github.com/pod-o-mart/Glossword)).
 
